@@ -24,7 +24,7 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRrqHbGcRJxGDhsgJHQhGjfPMMQqfPWtWhCslkwRCgphTSxTSVmwnzdcTPJNSrWqchbhZB" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/d-joe-joe-9532b8205/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/derek-joe-rosas-huaihua-701930244/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://web.whatsapp.com/send?phone=51_925092895" alt="WhatsApp">
